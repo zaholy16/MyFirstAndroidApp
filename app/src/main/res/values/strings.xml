@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Your lucky number</string>
+
+    <!--Instructions -->
+    <string name="main_welcome">Hello!</string>
+    <string name="main_meeting">I will be your friend and I help you to find your lucky number.</string>
+    <string name="main_fill_information">Please, fill the information :)</string>
+
+    <!--Information-->
+    <string name="main_name">Name</string>
+    <string name="main_age">Age</string>
+
+    <!--Messages-->
+    <string name="main_message">Please type your name or a valid age :l</string>
+
+    <!--Button-->
+    <string name="main_button">Touch me</string>
+
+</resources>

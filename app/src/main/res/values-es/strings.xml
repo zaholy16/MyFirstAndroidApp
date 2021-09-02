@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Your lucky number</string>
+
+    <!--Instructions -->
+    <string name="main_welcome">¡HOLA!</string>
+    <string name="main_meeting">Yo seré tu amig@ y te ayudaré a encontrar tu número de la suerte.</string>
+    <string name="main_fill_information">Por favor, llena la información :)</string>
+
+    <!--Information-->
+    <string name="main_name">Nombre</string>
+    <string name="main_age">Edad</string>
+
+    <!--Messages-->
+    <string name="main_message">Por favor ingresa tu nombre o una edad valida :l</string>
+
+    <!--Button-->
+    <string name="main_button">Tocame</string>
+
+
+</resources>
